@@ -2230,7 +2230,7 @@ p {
       .navbar-area .navbar .navbar-nav .nav-item a {
         font-size: 16px;
         line-height: 24px;
-        font-weight: 500;
+        font-weight: 400;
         padding: 26px 0;
         color: #fff;
         text-transform: uppercase;
@@ -2361,7 +2361,7 @@ p {
        10.SLIDER css 
 ===========================*/
 .carousel-item {
-  background-color: #000000c0;
+  background-color: #062068c0;
   position: relative; }
   .carousel-item::before {
     position: absolute;
@@ -2412,8 +2412,8 @@ p {
       padding-top: 190px;
       padding-bottom: 150px; } }
   .slider-content .title {
-    font-size: 88px;
-    line-height: 96px;
+    font-size: 40px;
+    line-height: 50px;
     color: #fff;
   }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
